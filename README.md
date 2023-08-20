@@ -1,6 +1,6 @@
 ![logo](https://github.com/jk36236/jk36236/blob/main/TLGBanner.png)
 <h1 align="center">Hi 👋, I'm Jatin Kumar</h1>
-<h3 align="center">A passionate frontend developer from India with proficiency in Reactjs along with C++ and DSA.</h3>
+<h3 align="center">I am a \textbf{Frontend Web Developer} and a \textbf{problem solver} who \textit{loves to code }and want to contribute as much as I can to Tech Field and want to make an \textit{impact in the technical world.</h3>
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jk36236&label=Profile%20views&color=0e75b6&style=flat" alt="jk36236" /> </p>
